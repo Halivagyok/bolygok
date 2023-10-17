@@ -11,4 +11,5 @@
 
     >git remote add origin https://token@github.com/.../...
 
-    >git push -u origin main
+    >git push -u origin main / master
+    
